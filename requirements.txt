@@ -1,0 +1,10 @@
+# Core dependencies used by the current Auroch simulation
+networkx
+numpy
+scipy
+matplotlib
+zstandard
+
+# Add these only if the corresponding code imports them:
+# pandas
+# ecdsa
